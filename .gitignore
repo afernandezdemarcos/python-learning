@@ -1,0 +1,9 @@
+python-notebooks/.ipynb_checkpoints/*
+python-exercises/.ipynb_checkpoints/*
+python-notebooks/pandas-datastructures/.ipynb_checkpoints/*
+data/userlogserrors.csv
+python-exercises/exercise-1-solved.ipynb
+python-exercises/exercise-2-solved.ipynb
+python-exercises/pandas-solved.ipynb
+python-notebooks/05-exercises-solved.ipynb
+python-notebooks/09-exercises-solved.ipynb
